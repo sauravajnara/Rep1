@@ -7,7 +7,7 @@ public  class  Demo
 	   int i=1;
 	  for( i=1;i<10;i++)
 	  {
-	     System.out.println("Loop counter"+i);
+	     System.out.println("Loop counter value "+i);
 	  }
 	}
 	
